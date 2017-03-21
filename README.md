@@ -4,7 +4,7 @@
 
 ## Progetto 1 - Tappy Plane
 
-Template per la realizzazione di un clone di *Flappy Bird* in [LÖVE](https://love2d.org/) 
+Template per la realizzazione di un clone di *Flappy Bird* in [LÖVE](https://love2d.org/).
 
 ## Credits
 
