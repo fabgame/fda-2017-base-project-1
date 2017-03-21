@@ -3,3 +3,7 @@
 *Docente: Marco Secchi ([marcosecchi.it](http://marcosecchi.it))*
 
 ## Progetto 1 - Flappy Bird Clone
+
+## Credits
+
+* **Graphics:** [Kenney](http://opengameart.org/users/kenney)
